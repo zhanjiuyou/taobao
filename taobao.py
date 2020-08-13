@@ -3,7 +3,7 @@
 #由于淘宝网站是异步加载的，只能使用selenium调用浏览器爬取
 #我的个人博客: https://jiaokangyang.com
 
-#添加注释
+#添加注释.8.13
 
 import requests
 from selenium import webdriver
